@@ -12,7 +12,7 @@
 
 ### 3. cmd或者powershell上运行代码
 
-打开```cmd```或者```powershell```接着复制文件的路径到```cmd 或 powershell 中按回车运行。
+打开```cmd```或者```powershell```接着复制文件的路径到cmd 或 powershell 中按回车运行。
 
 ### 4. 等待运行
 
